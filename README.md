@@ -3,11 +3,7 @@
 Witaj w moim repozytorium GitHub! 🎉 Jestem nowy na tej platformie i dopiero zaczynam swoją przygodę z GitHubem. Planuję tworzyć różne narzędzia pomocnicze i chętnie będę się nimi dzielić. Znajdziesz tu wiele ciekawych projektów, które mogą okazać się przydatne.
 
 ## PROJEKTY
-
-### Generator Haseł
-- Stworzony przez Vorti90
-- Link https://github.com/Vorti90/Password-Generator
-
+Niedługo
 
 ## KONTAKT
 Jeśli masz pytania lub chciałbyś się ze mną skontaktować, zapraszam do kontaktu:
